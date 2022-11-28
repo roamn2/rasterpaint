@@ -1,0 +1,3 @@
+1. Removed coordinates
+2. Removed white lines.
+3. Added Help for Custom color.
