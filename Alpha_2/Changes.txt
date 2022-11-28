@@ -1,2 +1,0 @@
-1. Made coordinates unselectable.
-2. Removed white lines.
